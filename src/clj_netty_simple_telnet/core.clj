@@ -38,5 +38,6 @@
 
 ;; We start server at port 5000
 ;; use telnet localhost:5000 to connect this server
-(defn main []
+(defn -main []
+  (println "Start telnet server at localhost:5000")
   (start-server 5000))
