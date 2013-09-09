@@ -1,14 +1,15 @@
 # clj-netty-simple-telnet
 
-A Clojure library designed to ... well, that part is up to you.
+A simple netty 3.x telnet server written in Clojure.
 
 ## Usage
 
-FIXME
+	lein deps
+	lein run
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 coldnew
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
